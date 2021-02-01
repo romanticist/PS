@@ -1,4 +1,5 @@
-S1 = 'aaaaaaaaaaaaaaaaaa'
-S2 = 'aa'
+a = 1
+b = 2
 
-print(S1[3:6] == S2)
+c = a = 3
+print(a,b,c)
