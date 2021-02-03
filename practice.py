@@ -1,5 +1,6 @@
-a = 1
-b = 2
-
-c = a = 3
-print(a,b,c)
+print("hi")
+print("hi")
+print("hi")
+print("hi")
+print("hi")
+return 0
